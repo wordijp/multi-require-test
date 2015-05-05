@@ -1,0 +1,18 @@
+{
+  "name": "multi-require-test",
+  "version": "0.0.1",
+  "authors": [
+    "wordi <wordijp@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "underscore": "~1.8.3"
+  }
+}

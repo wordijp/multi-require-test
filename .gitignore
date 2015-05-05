@@ -1,0 +1,11 @@
+lib/
+lib_tmp/
+node_modules/
+bower_components/
+public/
+tmp/
+
+gulpscripts/**/*.js
+src/**/*.js
+test_src/**/*js
+
